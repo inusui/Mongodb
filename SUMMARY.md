@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Mongodb](README.md)
+* [Comandos](comandos.md)
 * [Manipulacion de Datos](manipulacion-de-datos.md)
 * [Proyecto \<name>](proyecto-less-than-name-greater-than/README.md)
   * [Incremento de Dato](proyecto-less-than-name-greater-than/incremento-de-dato.md)

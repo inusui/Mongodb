@@ -31,7 +31,21 @@ db.insertar.insertMany(insertar)
 db.insertar.find()
 ```
 
+#### Ejercicio#1
 
+Inserta 5 Registros con Nombre, Genero, Edad, Fecha
+
+```
+datosAInsertar = [
+{ "Nombre":"Antonio", "Genero":"M", "Edad":15, "Fecha":new Date()},
+{ "Nombre":"Luna", "Genero":"F", "Edad":8, "Fecha":new Date()},
+{ "Nombre":"Lucho", "Genero":"M", "Edad":2, "Fecha":new Date()},
+{ "Nombre":"Lucas", "Genero":"M", "Edad":3, "Fecha":new Date()},
+{ "Nombre":"Venus", "Genero":"F", "Edad":2, "Fecha":new Date()}
+]
+
+db.tarea1.insert(datosAInsertar)
+```
 
 ### Eliminar una Coleccion
 
@@ -40,6 +54,46 @@ db.coleccion.drop()
 ```
 
 Dropea una coleccion en su totalidad
+
+* Es recomendable eliminar por un identificador unico del registro
+* Si se tienen 2 registros con el mismo "nombre" se eliminan todos
+* por ello no se elimina por "nombre" sinó por identificador unico del registro.
+
+```
+db.coleccion.remove(parametros)
+```
+
+ejemplo:
+
+```
+db.delete.remove({"_id":1})
+```
+
+#### Limpiar Colecciones
+
+```
+db.coleccion.remove({})
+```
+
+###
+
+### Borrar Colecciones&#x20;
+
+Elimina todos los registros de las coleccciones
+
+#### bash
+
+```
+db.coleccion.drop()
+```
+
+Dropea la Coleecion, devuelve un **True**
+
+****
+
+****
+
+
 
 
 

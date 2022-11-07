@@ -8,7 +8,7 @@ description: es como el select where en SQL
 
 recolecta todos los registros dentro de la coleccion
 
-![](../.gitbook/assets/imagen.png)
+![](<../.gitbook/assets/imagen (9).png>)
 
 ### db.coleccion.find().pretty()
 
@@ -16,7 +16,7 @@ lo mismo, pero mejor estructurado.&#x20;
 
 recomendado para altos volumenes de registros
 
-![](<../.gitbook/assets/imagen (4).png>)
+![](<../.gitbook/assets/imagen (2).png>)
 
 
 
@@ -24,7 +24,7 @@ recomendado para altos volumenes de registros
 
 dentro del argumento busco que quiero que me traiga de la coleccion, este seria el where
 
-![](<../.gitbook/assets/imagen (1).png>)
+![](<../.gitbook/assets/imagen (5).png>)
 
 ## Consulta multiple
 
@@ -42,7 +42,7 @@ db.coleccion.find(
 
 ### Ejemplo
 
-![use el pretty para que se vea mejor el resultado](<../.gitbook/assets/imagen (5).png>)
+![use el pretty para que se vea mejor el resultado](<../.gitbook/assets/imagen (3).png>)
 
 
 
@@ -50,5 +50,5 @@ db.coleccion.find(
 
 db.coleccion.findOne(argumento)
 
-![](<../.gitbook/assets/imagen (3).png>)
+![](<../.gitbook/assets/imagen (3) (1).png>)
 
