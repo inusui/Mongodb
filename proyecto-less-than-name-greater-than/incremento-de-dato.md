@@ -12,4 +12,4 @@ Se hace dentro de un update.
 
 #### En Bash
 
-![](../.gitbook/assets/imagen.png)
+![](<../.gitbook/assets/imagen (2).png>)
