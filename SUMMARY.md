@@ -5,3 +5,4 @@
 * [Proyecto \<name>](proyecto-less-than-name-greater-than/README.md)
   * [Incremento de Dato](proyecto-less-than-name-greater-than/incremento-de-dato.md)
   * [Consultar](proyecto-less-than-name-greater-than/consultar.md)
+* [Filtrado de Datos](filtrado-de-datos.md)

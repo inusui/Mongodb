@@ -16,7 +16,7 @@ lo mismo, pero mejor estructurado.&#x20;
 
 recomendado para altos volumenes de registros
 
-![](<../.gitbook/assets/imagen (9).png>)
+![](<../.gitbook/assets/imagen (4).png>)
 
 
 
@@ -24,7 +24,7 @@ recomendado para altos volumenes de registros
 
 dentro del argumento busco que quiero que me traiga de la coleccion, este seria el where
 
-![](<../.gitbook/assets/imagen (2).png>)
+![](<../.gitbook/assets/imagen (1).png>)
 
 ## Consulta multiple
 
