@@ -8,7 +8,7 @@ description: es como el select where en SQL
 
 recolecta todos los registros dentro de la coleccion
 
-![](<../.gitbook/assets/imagen (9).png>)
+![](<../.gitbook/assets/imagen (4).png>)
 
 ### db.coleccion.find().pretty()
 
@@ -42,7 +42,7 @@ db.coleccion.find(
 
 ### Ejemplo
 
-![use el pretty para que se vea mejor el resultado](<../.gitbook/assets/imagen (3).png>)
+![use el pretty para que se vea mejor el resultado](<../.gitbook/assets/imagen (1).png>)
 
 
 
@@ -50,5 +50,5 @@ db.coleccion.find(
 
 db.coleccion.findOne(argumento)
 
-![](<../.gitbook/assets/imagen (3) (1).png>)
+![](<../.gitbook/assets/imagen (3) (2).png>)
 

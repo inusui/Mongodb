@@ -93,6 +93,8 @@ Dropea la Coleecion, devuelve un **True**
 
 ****
 
+### `Actualizar datos con Update`
+
 
 
 

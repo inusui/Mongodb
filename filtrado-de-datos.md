@@ -6,4 +6,4 @@ Dentro del comando Find
 
 $gte
 
-![](.gitbook/assets/imagen.png)
+![](<.gitbook/assets/imagen (3).png>)
